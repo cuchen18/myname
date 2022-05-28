@@ -32,3 +32,8 @@ ul{
     /* align-items: center; */
     line-height: 50px;
 }
+.footer{
+    margin-top: 60px;
+    background-color: blueviolet;
+    height: 60px;
+}
